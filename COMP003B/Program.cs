@@ -1,9 +1,10 @@
 namespace COMP003B
-{ /*
+{//* this is single line comment
+    /*
    * Author: Robin Guyton
    * Course: COMP-003B
    * Faculty: Jonathan Cruz
-   * Prupose: My first ASP.NET Core Application
+   * Prupose: My first web app
    * 
    */
     public class Program
